@@ -1,5 +1,5 @@
 # Deber1_Calculadora
-Calculadora con consola en el lenguaje C#
+Calculadora con consola en el lenguaje C#                                                                           temas tratados en la clase del 09/12/2020.
 
 Las funciones de la calculadora son basicas segun lo solicitado:
 Al iniciar la calculadora empezara con una pregunta de inicio la cual el usuario decidira si quiere responderla o simplemente presionar enter.
@@ -10,3 +10,4 @@ Despues de dar enter en la consola aparece una leyenda con la respuesta
 Al presionar nuevamente enter la consola preguntara: desea "seguir resolviendo operaciones?"
 Si la respuesta es si o cualquier otra afirmacion se desplegara nuevamente la lista de operaciones 
 si es "no" el programa termina 
+
